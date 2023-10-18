@@ -1,1 +1,2 @@
-CREATE DATABASE IF NOT EXISTS `hbtn_0c_0`;
+-- Lists all databases of my MySQL server.
+SHOW DATABASES;
